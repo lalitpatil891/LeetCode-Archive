@@ -2,7 +2,7 @@
 
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
-![Palindrome]()
+![Palindrome](https://github.com/lalitpatil891/LeetCode-Archive/blob/main/9.%20Palindrome%20Number/Palindrom.png)
 
 **Example 1:**
 
@@ -29,7 +29,3 @@ Runtime: `5ms Beats 72.69%`
 Memory: `43.91 MB Beats 75.74%`
 
 *submitted at Mar 27, 2025 10:18*
-
-
-
-Optimized Palindrome Number (5ms Beats 72.69%)
