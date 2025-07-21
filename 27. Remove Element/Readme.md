@@ -27,7 +27,7 @@ If all assertions pass, then your solution will be accepted.
 
 **Example 1:**
 Input: `nums = [3,2,2,3], val = 3`
-Output: `2, nums = [2,2,_,_]``
+Output: `2, nums = [2,2,_,_]`
 Explanation: Your function should return k = 2, with the first two elements of nums being 2.
 It does not matter what you leave beyond the returned k (hence they are underscores).
 
@@ -45,7 +45,4 @@ Constraints:
 `0 <= val <= 100`
 
 ---
-Runtime: `1ms Beats 83.88%`   
-Memory: `40.75 MB  Beats 84.83%`
-
-*submitted at Mar 29, 2025 22:47*
+*submitted at Jul 21, 2025 11:22*
