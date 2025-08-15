@@ -17,6 +17,10 @@ Input: `n = 1`
 Output: `true`
 
 Constraints:
+<<<<<<< HEAD
+=======
+
+>>>>>>> 07f56a946ced03b51f7d9e6c0b8b9b2cd6321caa
 `-231 <= n <= 231 - 1`
 
 ---
