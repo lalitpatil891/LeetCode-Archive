@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/118. Pascal's Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/125. Valid Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. Roman to Integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1695. Maximum Erasure Value" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1717. Maximum Score From Removing Substrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21. Merge Two Sorted Lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2106. Maximum Fruits Harvested After at Most K Steps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/231. Power of Two" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2322. Minimum score after removals on a tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27. Remove Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2787. Ways to Express an Integer as Sum of Powers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/342. Power of Four" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3477. Fruits Into Baskets II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3622. Check Divisibility by Digit Sum and Product" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7. Reverse Integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/763. Partition Labels" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/898. Bitwise ORs of Subarrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9. Palindrome Number" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
